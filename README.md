@@ -19,10 +19,7 @@ would make my whole world bright.
 
 This is a dynamic web page, when we click `index` of this project,
 
-![dynamic](http://img.blog.csdn.net/20170425120746328)
-
-
-![dm](http://img.blog.csdn.net/20170425152455438)
+![ccc](http://img.blog.csdn.net/20170425153308116)
 
 
 The following is a complete display：
