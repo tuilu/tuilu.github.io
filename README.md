@@ -19,8 +19,7 @@ would make my whole world bright.
 
 This is a dynamic web page, when we click `index` of this project,
 
-![dynamic](http://img.blog.csdn.net/20170425120746328?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
+![dynamic](http://img.blog.csdn.net/20170425120746328)
 
 
 The following is a complete display：
