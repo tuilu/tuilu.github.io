@@ -19,11 +19,13 @@ would make my whole world bright.
 
 This is a dynamic web page, when we click `index` of this project,
 
-![1](http://img.blog.csdn.net/20170425114305419)
+![dynamic](http://img.blog.csdn.net/20170425120746328?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
-end:
 
-![2](http://img.blog.csdn.net/20170425114354162)
+The following is a complete display：
 
+
+
+![one](http://img.blog.csdn.net/20170425114931463?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
